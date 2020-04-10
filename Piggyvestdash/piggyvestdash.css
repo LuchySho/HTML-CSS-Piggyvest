@@ -1,0 +1,86 @@
+
+    body{
+        background-color: rgba(3, 9, 92, 0.877);
+        font-family: Verdana, sans-serif;
+        margin: 50px 0px;           
+    }
+
+    div.header {
+       margin-top: 50px;  
+    }
+
+    h1 {
+     color: white;
+     text-align: center; 
+     font-family: verdana, sans-serif;
+     display: inline;                
+    }
+
+    div.block {
+        border-style: solid;
+        border-color: white;
+        border-radius: 20px;
+        border-bottom-left-radius: 0;
+        background-color: white;
+        margin: 50px 450px ;
+        padding: 0 30px ;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+
+    h2 {
+            color: rgba(3, 9, 92, 0.877);
+            text-align: center ;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                        
+    }
+
+    p.sub {
+        text-align: center;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif  ;
+        line-height: 0;
+        font-size: small;           
+    }
+
+    p.sub1 {
+        color: rgb(77, 77, 77);
+        font-size: small;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight:bold;
+        margin-top: 50px;
+        line-height: 0;
+                    
+    }
+    p.sub2 {
+        color: darkgrey;
+        padding: 10px ;
+        background-color: rgb(241, 241, 245); 
+        border-style: solid;
+        border-color: rgb(241, 241, 245);
+        border-radius: 5px;
+    }
+    p.sub3 {
+        color: white;
+        border-style: solid;
+        background-color: darkblue;
+        border-color: darkblue;
+        border-radius: 10px;
+        border-bottom-left-radius: 0;
+        padding: 13px;
+        font-size: 12pt;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+        margin: 50px 0px;
+    }
+
+    p.sub4 {
+        color:white;
+        text-align:center; 
+        font-size:small;
+    }
+    img {            
+        float:left;                    
+        vertical-align:text-bottom;
+        margin-left: 530px ; 
+             
+    }
+    
